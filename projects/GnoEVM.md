@@ -5,8 +5,7 @@
 - Links 
     - X: https://x.com/blockwavelabs
     - LinkedIn: https://www.linkedin.com/in/minik-kim-175353310/
-    - website: blockwavelabs.io
-
+    - website: https://www.blockwavelabs.io/
 ## Project summary
 
 Your project summary goes here.

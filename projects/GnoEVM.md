@@ -1,8 +1,11 @@
-# Project Name
+# Project Name : GnoEVM
 
-- GitHub handle
-- Email
-- Links (X, LinkedIn, your website, etc.)
+- GitHub handle: https://github.com/ziptalk/
+- Email: contact@blockwavelabs.io
+- Links 
+    - X: https://x.com/blockwavelabs
+    - LinkedIn: https://www.linkedin.com/in/minik-kim-175353310/
+    - website: blockwavelabs.io
 
 ## Project summary
 
